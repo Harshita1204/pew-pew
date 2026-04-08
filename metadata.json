@@ -1,0 +1,5 @@
+{
+  "name": "CodeLens",
+  "description": "Static Code Analysis tool for PHP that calculates Cyclomatic Complexity and provides AI-driven refactoring suggestions.",
+  "requestFramePermissions": []
+}
