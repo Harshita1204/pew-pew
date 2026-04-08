@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CodeLens Learning Lab
 
 A modern learning platform that blends live complexity scoring, AI refactors, and personalized growth roadmaps for every developer. CodeLens Studio provides an interactive Monaco Editor environment for analyzing code complexity, generating reports, and creating code with AI assistance.
@@ -87,3 +88,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the Apache-2.0 License.
+=======
+# Run 
+- Run this command `npm i`
+- Then `npm run dev` 
+>>>>>>> 9b8ce2817bd61b8216fa8a8460546bdad3395edc
